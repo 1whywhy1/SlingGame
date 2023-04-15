@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GitHub/SlingGame/Slingshot/Content/Levels/MAP_Main.umap",
+				"D:/GitHub/SlingGame/Slingshot/Content/Materials/M_Floor.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Blueprints/Core/BP_SlingshotGameMode.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Blueprints/Core/BP_SlingshotGameInstance.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Blueprints/Core/BP_SlingshotGameState.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Blueprints/Player/BP_SlingshotPlayerController.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Blueprints/Player/BP_SlingshotPawn.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Blueprints/UI/BP_SlingshotHUD.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Blueprints/Player/BP_SlingshotPlayerCameraManager.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Materials/M_Player.uasset",
+				"D:/GitHub/SlingGame/Slingshot/Content/Materials/M_Solid.uasset"
+			]
+		}
+	]
+}
